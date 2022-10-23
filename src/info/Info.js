@@ -63,6 +63,11 @@ export const info = {
       icon: "fa fa-twitter",
       label: "twitter",
     },
+    {
+      link: "https://pratyushkk.hashnode.dev/",
+      icon: "fa fa-rss-square",
+      label: "hashnode",
+    },
   ],
   bio: "Hello! I'm Pratyush. I'm a freelance frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript, React, Tailwind CSS,Bootstrap, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.",
   skills: {
