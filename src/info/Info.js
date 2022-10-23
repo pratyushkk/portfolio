@@ -65,7 +65,7 @@ export const info = {
     },
     {
       link: "https://pratyushkk.hashnode.dev/",
-      icon: "fa-brands fa-hashnode",
+      icon: "fa fa-hashnode",
       label: "hashnode",
     },
   ],
