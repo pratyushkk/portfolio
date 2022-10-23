@@ -20,7 +20,7 @@ export const info = {
   firstName: "Pratyush",
   lastName: "Nayak",
   initials: "</>",
-  position: "a Frontend Developer",
+  position: "a Web Developer",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
@@ -35,7 +35,7 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "Freelancer",
+      text: "Full-stack Web Developer intern @ iNeuron.ai",
     },
     {
       emoji: "📧",
