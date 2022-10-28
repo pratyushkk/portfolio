@@ -64,7 +64,7 @@ export const info = {
       label: "twitter",
     },
     {
-      link: "https://pratyushkk.hashnode.dev/",
+      link: "https://blog.pratyushkk.in/",
       icon: "fa fa-rss-square",
       label: "hashnode",
     },
