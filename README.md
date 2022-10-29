@@ -1,2 +1,2 @@
 
-## [Live Link](https://pratyuhkk.in/)
+## [Live Link](https://pratyushkk.in/)
