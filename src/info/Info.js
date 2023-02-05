@@ -4,6 +4,7 @@ import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
+import mock6 from "../img/mock6.png";
 
 //export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -69,7 +70,7 @@ export const info = {
       label: "hashnode",
     },
   ],
-  bio: "Hello! I'm Pratyush. I'm a freelance frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript, React, Tailwind CSS,Bootstrap, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.",
+  bio: "Hello! I'm Pratyush. I'm a frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript, React, Tailwind CSS,Bootstrap, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.",
   skills: {
     proficientWith: [
       "javascript",
@@ -93,23 +94,19 @@ export const info = {
       label: "movies",
       emoji: "🎥",
     },
-    {
-      label: "cooking",
-      emoji: "🌶",
-    },
   ],
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Hex Code Generator",
-      live: "https://dainty-pudding-4f9077.netlify.app",
-      source: "https://github.com/pratyushkk/Hex-Code-Generator",
+      title: "Movie Recommendation App",
+      live: "https://watcher-co.netlify.app/",
+      source: "https://github.com/pratyushkk/movie-streaming-app",
       image: mock1,
     },
     {
-      title: "Word Counter App",
-      live: "https://word-counter-application.netlify.app/",
-      source: "https://github.com/pratyushkk/Word-counter-app",
+      title: "Modern UI/UX Landing Page",
+      live: "https://zippy-marigold-34e445.netlify.app/",
+      source: "https://github.com/pratyushkk/modern-UI-UX-landing_page",
       image: mock2,
     },
     {
@@ -125,10 +122,16 @@ export const info = {
       image: mock4,
     },
     {
-      title: "Project 5",
-      // live: "",
-      // source: "",
+      title: "Hex Code Generator",
+      live: "https://dainty-pudding-4f9077.netlify.app",
+      source: "https://github.com/pratyushkk/Hex-Code-Generator",
       image: mock5,
+    },
+    {
+      title: "Word Counter App",
+      live: "https://word-counter-application.netlify.app/",
+      source: "https://github.com/pratyushkk/Word-counter-app",
+      image: mock6,
     },
   ],
 };

@@ -47,7 +47,7 @@ export default function BaseLayout() {
               Created with &hearts; by{" "}
               <a href={"https://github.com/pratyushkk"}>Pratyush K.K. Nayak</a>
             </p>
-            <p>&copy; 2022</p>
+            <p>&copy; 2023</p>
           </Box>
         </Grid>
       </Grid>
