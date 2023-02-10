@@ -40,7 +40,7 @@ export const info = {
     },
     {
       emoji: "📧",
-      text: "pratyushkk.nayak@gmail.com",
+      text: "npratyush007@gmail.com",
     },
   ],
   socials: [
